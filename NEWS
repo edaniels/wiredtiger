@@ -4,6 +4,7 @@ https://jira.mongodb.org
 WiredTiger release 3.0.0, 2018-01-08
 ------------------------------------
 
+
 See the upgrading documentation for details of API and behavior changes.
 
 Significant changes:
